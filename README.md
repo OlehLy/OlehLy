@@ -28,13 +28,13 @@
 
 I am a Front End Developer from Ukraine<img src="https://media.giphy.com/media/JsVzj7STYnTmpXGVdu/giphy.gif" width="30">
 
-  - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+  - :telescope: I’m interested in programming more precisely web development, I am also interested in the world of cryptocurrencies
 
-  - :seedling: Exploring Technical Content Writing.
+  - :seedling: I’m currently learning front-end development
 
-  - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+  - :zap: I’m looking to collaborate on smart, generally cool guys, together with whom we will change the world of innovation for the better
 
-  - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oleh-lykho-2ab7a223b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Blzil2NnBTsSXWcWLXks%2FCQ%3D%3D), mail: <a href="mailto:olykhoworking@gmail.com" target="_blank" rel="noopener noreferrer">olykhoworking@gmail.com</a>
+  - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oleh-lykho-2ab7a223b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Blzil2NnBTsSXWcWLXks%2FCQ%3D%3D), mail: <a href="mailto:likhoolegfr@gmail.com" target="_blank" rel="noopener noreferrer">olykhoworking@gmail.com</a>
 
 ### :hammer_and_wrench: Languages and Tools :
 
