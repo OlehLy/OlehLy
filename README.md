@@ -34,4 +34,4 @@ I am a Front End Developer from Ukraine<img src="https://media.giphy.com/media/J
 
   - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-  - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oleh-lykho-2ab7a223b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Blzil2NnBTsSXWcWLXks%2FCQ%3D%3D), mail: <a href="mailto:olykhoworking@gmail.com" target="_blank" rel="noopener noreferrer">olykhoworking@gmail.com</a>
+  - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oleh-lykho-2ab7a223b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Blzil2NnBTsSXWcWLXks%2FCQ%3D%3D), mail: <a href="mailto: olykhoworking@gmail.com" target="_blank" rel="noopener noreferrer">olykhoworking@gmail.com</a>
