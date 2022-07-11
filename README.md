@@ -56,3 +56,7 @@ I am a Front End Developer from Ukraine<img src="https://media.giphy.com/media/J
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=olehly&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olehly&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### :closed_book: Repositories :
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=olehly&repo=Lessons-and-Practice)](https://github.com/OlehLy/Lessons-and-Practice)
