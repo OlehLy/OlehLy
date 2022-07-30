@@ -59,4 +59,4 @@ I am a Front End Developer from Ukraine<img src="https://media.giphy.com/media/J
 
 ### :closed_book: Repositories :
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=olehly&repo=Lessons-and-Practice)](https://github.com/OlehLy/Lessons-and-Practice)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=olehly&repo=Front-End)](https://github.com/OlehLy/Front-End)
