@@ -29,7 +29,7 @@
 
 I am a Front End Developer from Ukraine<img src="https://media.giphy.com/media/JsVzj7STYnTmpXGVdu/giphy.gif" width="30">
 
-  - :telescope: I’m interested in programming more precisely web development, I am also interested in the world of cryptocurrencies
+  - :telescope: I’m interested in programming more precisely web development
 
   - :seedling: I’m currently learning front-end development
 
